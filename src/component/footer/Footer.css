@@ -1,0 +1,27 @@
+.footer-heading {
+
+    font-size: 7rem;
+    font-family: 'Pirata One', cursive;
+    color: black;
+}
+
+.footer-text{
+
+    font-size: 1.3rem;
+    position: relative;
+    bottom: 20px;
+}
+
+.footer-row{
+
+    min-height: 300px;
+}
+
+.footer-icons{
+
+    font-size: 1.5rem!important;
+    margin-right: 7px;
+    position: relative;
+    bottom: 40px;
+    color: black;
+}
