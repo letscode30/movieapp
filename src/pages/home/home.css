@@ -18,3 +18,33 @@
     position: relative;
     top: 300px;
 }
+
+@media(max-width: 576px) {
+    
+
+    .jumbo-text{
+        font-size: 55px!important;
+        margin-bottom: 10px;
+    }
+
+
+        .myicon {
+    
+            position: relative;
+            top: 65px;
+        }
+}
+
+@media(max-width: 991.5px) and (min-width: 576px) {
+    .jumbo-text {
+
+        font-size: 90px !important;
+        margin-bottom: 10px;
+    }
+
+          .myicon {
+    
+              position: relative;
+              top: 80px;
+          }
+}

@@ -36,9 +36,9 @@ console.log(movies)
   
   <>
 
- <div className="container jumbo-text text-center ">
+ <div className="container  text-center ">
 
-   Popular
+  <p className="jumbo-text"> Popular </p>
   </div>
 
   <div className="container shadow-lg text-center">
